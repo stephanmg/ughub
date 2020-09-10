@@ -98,3 +98,4 @@ def RemoveOptions(args):
 def Write(string):
 	sys.stdout.write(string)
 	sys.stdout.flush()
+	
